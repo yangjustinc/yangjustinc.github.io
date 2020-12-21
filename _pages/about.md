@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: B.Sc. (Br. Col.), B.A. (Br. Col.), M.S.P.H. (J. Hopkins), Ph.D. (Cantab.)
+description: BSc (Br. Col.), BA (Br. Col.), MSPH (J. Hopkins), PhD (Cantab.), CPH
 
 profile:
   align: right
