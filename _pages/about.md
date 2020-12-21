@@ -6,7 +6,7 @@ description: BSc (Br. Col.), BA (Br. Col.), MSPH (J. Hopkins), PhD (Cantab.), CP
 
 profile:
   align: right
-  image: profile.jpg
+  image: prof_pic.jpg
   address: >
     <p>Division of Psychiatry</p>
     <p>University College London</p>
