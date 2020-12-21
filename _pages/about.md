@@ -2,23 +2,23 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: B.Sc. (Br. Col.), B.A. (Br. Col.), M.S.P.H. (J. Hopkins), Ph.D. (Cantab.)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Division of Psychiatry</p>
+    <p>University College London</p>
+    <p>6th Floor, Maple House</p>
+    <p>149 Tottenham Court Road</p>
+    <p>London W1T 7NF</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Research Fellow in Epidemiology and Database Analysis at University College London. My research involves analysing electronic patient health records to explore outcomes in those accessing secondary mental health services in the London boroughs of Camden and Islington. I'm broadly interested in the epidemiological applications of administrative and routinely collected data with a particular interest in mental health. I've also begun to apply machine learning approaches to interpret and annotate these types of data.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My doctoral studies were supervised by Professor Carol Brayne and Dr. Andres Roman-Urrestarazu at the University of Cambridge. My dissertation elucidated the social and economic epidemiology of substance use disorders and their treatment in the contexts of the 2008 global financial crisis and most recent opioid overdose crisis. Previously, I was a senior associate with Avalere Health where I advised life sciences companies, charitable foundations, and patient advocacy groups on issues pertaining to coding, coverage, and payment for drugs, biologics, and medical devices. 
