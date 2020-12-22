@@ -56,6 +56,8 @@
         <em>{{entry.journal}}</em>
       {% elsif entry.type == "inproceedings" %}
         <em>In {{entry.booktitle}}</em>
+      {% elsif entry.type == "incollection" %}
+        In <em>{{entry.booktitle}}</em>
       {% endif %}
       {% if entry.year %}
         {{entry.year}}
@@ -70,8 +72,8 @@
     {% if entry.arxiv %}
       <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
     {% endif %}
-    {% if entry.html %}
-      <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button" target="_blank">HTML</a>
+    {% if entry.url %}
+      <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">HTML</a>
     {% endif %}
     {% if entry.pdf %}
       {% if entry.pdf contains '://' %}

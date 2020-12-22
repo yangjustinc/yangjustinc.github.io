@@ -41,8 +41,7 @@ a, table.table a {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
-    font-size: 1.2rem;
+    font-size: 0.9rem;
     p {
       display: inline-block;
       margin: 0;
@@ -165,7 +164,7 @@ a, table.table a {
 .social {
   text-align: center;
   .contact-icon {
-    font-size: 4rem;
+    font-size: 3rem;
     a {
       color: var(--global-icon-color);
       &:hover {
