@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href-"https://iris.ucl.ac.uk/iris/browse/profile?upi=JCYAN91">Research Fellow in Epidemiology and Database Analysis, UCL</a>
+description: <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=JCYAN91">Research Fellow in Epidemiology and Database Analysis, UCL</a>
 
 profile:
   align: right
