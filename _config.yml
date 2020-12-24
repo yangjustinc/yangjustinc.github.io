@@ -49,7 +49,7 @@ research_gate_profile: Justin_Yang16 # your profile on ResearchGate
 blogger_url: # your blogger URL
 keybase_username: # your keybase user name
 
-contact_note: 
+contact_note:
 
 google_analytics: UA-113917488-1 # out your google-analytics code
 
@@ -57,8 +57,8 @@ google_analytics: UA-113917488-1 # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: # your blog must have a name for it to show up in the nav bar
-blog_description: 
+blog_name: blog # your blog must have a name for it to show up in the nav bar
+blog_description:
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -76,10 +76,10 @@ collections:
   news:
     defaults:
       layout: post
-    output: false
+    output: true
     permalink: /news/:path/
   projects:
-    output: false
+    output: true
     permalink: /projects/:path/
 
 news_limit: 5
