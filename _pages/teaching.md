@@ -16,4 +16,4 @@ nav: true
 
 ## University of British Columbia
 
--   Course coordinator for \[]_Books on Trial_](<http://blogs.ubc.ca/booksontrial>), a [Student-Directed Seminar](https://students.ubc.ca/enrolment/courses/student-directed-seminars)
+-   Course coordinator for *[Books on Trial]*(http://blogs.ubc.ca/booksontrial), a [Student-Directed Seminar](https://students.ubc.ca/enrolment/courses/student-directed-seminars)
