@@ -47,7 +47,7 @@ quora_username: # your Quora username
 publons_id: 1396604 # your ID on Publons
 research_gate_profile: Justin_Yang16 # your profile on ResearchGate
 blogger_url: # your blogger URL
-keybase_username: yangjustinc # your keybase user name
+keybase_username: # your keybase user name
 
 contact_note:
 
@@ -150,7 +150,7 @@ enable_google_analytics:  true
 enable_mansory:           true
 enable_math:              true
 enable_tooltips:          false
-enable_darkmode:          false
+enable_darkmode:          true
 show_social_icons:        false
 
 # -----------------------------------------------------------------------------
