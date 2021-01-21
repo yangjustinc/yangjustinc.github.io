@@ -2,7 +2,7 @@
 layout: page
 title: Advancing methodology and linkages in electronic health records for mental health research
 img: /assets/img/mrc.jpg
-importance: 1
+importance: 
 ---
 
 In 2018, the Medical Research Council provided funding totalling £10 million to nine UK universities, including UCL, to further our understanding and treatment of mental health disorders through the Mental Health Pathfinder grants. In particular, these grants were intended to support studies which help build the systems, infrastructure, and insight that will help researchers make the best use of Big Data to help unlock the secret to better diagnosis, treatment and ultimately prevention of mental health conditions.
