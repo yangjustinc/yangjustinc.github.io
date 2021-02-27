@@ -15,5 +15,7 @@ nav: true
 -   Health and Quality of Life Outcomes
 -   International Journal for Equity in Health
 -   Journal of Psychopharmacology
+-   Journal of Substance Abuse Treatment
 -   Substance Abuse: Research and Treatment
 -   Substance Abuse Treatment, Prevention and Policy
+-   The American Journal of Drug and Alcohol Abuse
