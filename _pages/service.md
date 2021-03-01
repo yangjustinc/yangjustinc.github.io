@@ -8,6 +8,7 @@ nav: true
 
 ## Peer Reviewer
 
+-   American Journal of Drug and Alcohol Abuse
 -   American Journal of Men's Health
 -   American Journal on Addictions
 -   Applied Economics
@@ -18,4 +19,3 @@ nav: true
 -   Journal of Substance Abuse Treatment
 -   Substance Abuse: Research and Treatment
 -   Substance Abuse Treatment, Prevention and Policy
--   The American Journal of Drug and Alcohol Abuse
