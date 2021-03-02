@@ -19,3 +19,7 @@ nav: true
 -   Journal of Substance Abuse Treatment
 -   Substance Abuse: Research and Treatment
 -   Substance Abuse Treatment, Prevention and Policy
+
+## Personal Tutor
+
+-   MSc in Mental Health Sciences Research, University College London
