@@ -3,7 +3,7 @@ layout: page
 title: teaching
 permalink: /teaching/
 description:
-nav: true
+nav: false
 ---
 
 ## University of Cambridge
